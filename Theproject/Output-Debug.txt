@@ -1,0 +1,15 @@
+﻿'Theproject.exe' (Win32): Loaded 'D:\analysiscreditlab\Theproject\Debug\Theproject.exe'. Symbols loaded.
+'Theproject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Theproject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Theproject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Theproject.exe' (Win32): Loaded 'C:\Program Files\Norton Security\NortonData\22.20.5.40\Definitions\BASHDefs\20210811.011\UMEngx86.dll'. 
+'Theproject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Theproject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Theproject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x4dc4 has exited with code 0 (0x0).
+'Theproject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Theproject.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0x4254 has exited with code 0 (0x0).
+The thread 0x2454 has exited with code 0 (0x0).
+The thread 0xdbc has exited with code 0 (0x0).
+The program '[17892] Theproject.exe' has exited with code 0 (0x0).

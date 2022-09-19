@@ -1,0 +1,33 @@
+﻿  Source.cpp
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(97,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(116,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(191,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(193,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(195,22): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(215,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(219,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(250,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(261,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(263,22): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(278,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(374,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(416,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(429,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(435,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(440,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(447,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(449,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(480,20): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(481,21): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(519,22): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(526,22): warning C4018: '<': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(543,18): warning C4018: '>': signed/unsigned mismatch
+D:\analysiscreditlab\Theproject\Theproject\Source.cpp(630,20): warning C4018: '<': signed/unsigned mismatch
+  Theproject.vcxproj -> D:\analysiscreditlab\Theproject\Debug\Theproject.exe
