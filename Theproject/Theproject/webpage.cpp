@@ -6,7 +6,7 @@ webpage:: webpage() {
 	 pctr = (double)get_clicks() / (double)get_impressions();
 	 set_pscore();
 		
-	
+	//test
 }
 void webpage ::set_pctr() {
 	 pctr = (double)get_clicks() / (double)get_impressions();
