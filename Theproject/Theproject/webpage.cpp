@@ -33,7 +33,6 @@ void webpage::set_pimpressions(int impressions) {
 	pimpressions = impressions;
 }
 
-// test
 
 string webpage:: get_name() const {
 	return pname;
